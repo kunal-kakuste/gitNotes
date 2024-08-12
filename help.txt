@@ -1,4 +1,0 @@
- this is help file for java help 1.4. 
-
-  
-
