@@ -2,3 +2,9 @@ this is help.txt
 first thing, we need to find the point we want to return to.
  To do that, we need to go through the log.
 
+e56ba1f (HEAD -> master) Revert "Just a regular update, definitely no accidents here..."
+52418f7 Just a regular update, definitely no accidents here...
+9a9add8 (origin/master) Added .gitignore
+81912ba Corrected spelling error
+3fdaa5b Merge pull request #1 from w3schools-test/update-readme
+
