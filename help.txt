@@ -1,3 +1,4 @@
 this is help.txt
-sone additional data
+first thing, we need to find the point we want to return to.
+ To do that, we need to go through the log.
 
